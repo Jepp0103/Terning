@@ -26,7 +26,5 @@ public class Dice {
 			System.out.print(roll() + " ");
 		}		
 	}
-	
-	float test;
 }
 
