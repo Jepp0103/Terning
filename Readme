@@ -1,9 +1,10 @@
 Dette er en beskrivende markdownfil til Terning projektet. 
 
-I dette repository har vi importeret AgnerFs udgave af terning projektet, og vi har slev bygget en junit test, som tester terningens retfærdighed. Vi vil ikke i denne omgang rette eventuelle fejl i denne terning. 
+I dette repository har vi importeret AgnerFs udgave af terning projektet, og vi har selv bygget en junit test, som tester terningens retfærdighed. Vi vil ikke i denne omgang rette eventuelle fejl i denne terning. 
 
 EDITS:
 
 Jonas Mikkelsen
 Behnia Farazan
 Ana-Maria Fischer Zokalj
+Thomas Mascagni
